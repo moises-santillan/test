@@ -21,11 +21,7 @@
 title: Jardín Botánico del Colegio Formus
 email: moises.santillan.zeron@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Este portal es el resultado del trabajo de los alumnos de sexto grado, quienes 
-  se han dedicado a catalogar y documentar la riqueza vegetal que adorna nuestros 
-  jardines. Nuestro propósito es transformar los espacios verdes del colegio en un 
-  aula viva, ayudando a toda la comunidad a apreciar y aprender sobre botánica y 
-  ecología. ¡Explora la abundancia verde de Formus!
+  ¡Explora la abundancia verde de Formus!
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://moises-santillan.github.io/jardin-botanico" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
