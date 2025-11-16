@@ -35,6 +35,8 @@ plugins:
 minima:
   skin: solarized-light
   navbar_links:
+    - title: "Inicio"
+      url: "/"
     - title: "Nosotros"
       url: "/Nosotros/"
 
