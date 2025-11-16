@@ -1,9 +1,8 @@
 ---
-layout: catalogo # Usaremos un nuevo layout para el catálogo
-title: Quercus robur (Roble Común)
-tipo_planta: arbol # <-- ¡Clave para la clasificación!
+layout: catalogo 
+title: Roble Común
+tipo_planta: arbol 
 nombre_cientifico: Quercus Robur
-ubicacion: Cerca de la entrada principal
 permalink: /Catalogo/Roble/
 ---
 
