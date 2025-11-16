@@ -33,10 +33,15 @@ plugins:
   - jekyll-feed
 
 minima:
-  skin: solarized-dark
+  skin: solarized-light
   navbar_links:
     - title: "Nosotros"
       url: "/Nosotros/"
+
+collections:
+  botanica:
+    output: true
+    permalink: /botanica/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
