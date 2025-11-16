@@ -1,3 +1,28 @@
+<header>
+  <nav>
+    <ul class="nav-links">
+      {% comment %} 
+        1. Get all pages (site.html_pages) 
+        2. Sort by 'nav-order'. This uses the integer/float value for accurate sequencing. 
+      {% endcomment %}
+      {% assign sorted_pages = site.html_pages | sort: "nav-order" %}
+
+      {% for page in sorted_pages %}
+        {% comment %} 
+          Filter: Only include the page if 'nav-include' is explicitly set to true 
+          and 'nav-order' exists (to ensure it has a sorting position).
+        {% endcomment %}
+        {% if page.nav-include == true and page.nav-order %}
+          <li class="nav-item">
+            <a href="{{ page.url | relative_url }}">{{ page.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+
+<!--
 <header class="site-header">
 
   <div class="wrapper">
@@ -18,3 +43,4 @@
     {%- endunless %}
   </div>
 </header>
+-->

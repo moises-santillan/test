@@ -5,6 +5,7 @@
 layout: home
 title: Inicio
 permalink: /
+nav-include: false
 ---
 
 ## Bienvenido al Jardín Botánico Digital del Colegio Formus

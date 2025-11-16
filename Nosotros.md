@@ -2,6 +2,8 @@
 layout: page
 title: Nosotros
 permalink: /Nosotros/
+nav-include: true
+nav-order: 1
 ---
 ## El Colegio y los Creadores
 

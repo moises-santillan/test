@@ -2,6 +2,8 @@
 layout: page
 title: Catálogo de Plantas
 permalink: /Catalogo-menu/
+nav-include: true
+nav-order: 3
 ---
 
 ## Catálogo del Jardín Botánico del Colegio

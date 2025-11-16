@@ -2,7 +2,8 @@
 layout: page
 title: Guía de Botánica
 permalink: /botanica-menu/
-nav_order: 1
+nav-include: true
+nav-order: 2
 ---
 
 ## Conceptos Básicos de Botánica
