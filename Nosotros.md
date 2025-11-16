@@ -3,6 +3,7 @@ layout: page
 title: Nosotros
 permalink: /Nosotros/
 ---
+# El Colegio y los Creadores
 
 ## El Colegio Formus
 El Colegio Formus está comprometido con una educación integral que valora la conexión con la naturaleza. Creemos que el aprendizaje se extiende más allá del aula. Nuestros amplios jardines no son solo decoración; son un recurso educativo fundamental que esta plataforma digital ayuda a maximizar.

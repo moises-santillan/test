@@ -4,6 +4,7 @@ title: Quercus robur (Roble Común)
 tipo_planta: arbol # <-- ¡Clave para la clasificación!
 nombre_cientifico: Quercus Robur
 ubicacion: Cerca de la entrada principal
+permalink: /Catalogo/Roble/
 ---
 
 ## Descripción

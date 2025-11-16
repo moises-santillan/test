@@ -40,11 +40,11 @@ minima:
 collections:
   botanica:
     output: true
-    permalink: /botanica/:name/
+    permalink: /Botanica/:name/
   
   catalogo:
     output: true
-    permalink: /catalogo/:name/
+    permalink: /Catalogo/:name/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
