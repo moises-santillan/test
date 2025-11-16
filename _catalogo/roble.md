@@ -1,7 +1,7 @@
 ---
 layout: catalogo 
 title: Roble Común
-tipo_planta: Árboles 
+tipo_planta: arbol 
 nombre_cientifico: Quercus Robur
 permalink: /Catalogo/Roble/
 ---
