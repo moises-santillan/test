@@ -1,6 +1,7 @@
 <header class="site-header">
 
   <div class="wrapper">
+    {%- assign filtered_pages = site.pages | where_exp: "page", "page.navi-include != true" -%}
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
