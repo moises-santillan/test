@@ -1,10 +1,11 @@
 <header class="site-header">
 
   <div class="wrapper">
-    {%- assign filtered_pages = site.pages | where_exp: "page", "page.navi-include != true" -%}
-    {%- assign default_paths = site.pages | map: "path" -%}
+    {%- assign filtered_pages = site.pages | where_exp: "page", "page.nav-include == true" -%}
+    {%- assign ordered_pages = filtered_pages | sort: "nav-order" -%}
+    {%- assign default_paths = ordered_pages | map: "path" -%}
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
-    {%- assign page_titles = site.pages | map: 'title' | compact %}
+    {%- assign page_titles = ordered_pages | map: 'title' | compact %}
 
     <a class="site-title" rel="author" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
 
