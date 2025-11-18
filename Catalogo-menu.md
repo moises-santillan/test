@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Catálogo de Plantas
-permalink: /Catalogo-menu/
+permalink: /catalogo-menu/
 nav-include: true
 nav-order: 3
 ---
