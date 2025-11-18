@@ -42,7 +42,7 @@ La clasificación propuesta por Linneo divide las plantas según la presencia de
 
 #### 2. Plantas Vasculares (Traqueofitas)
 
-Poseen tejidos vasculares, lo que les permite alcanzar mayores tamaños y colonizar hábitats más secos.
+Poseen tejidos vasculares, lo que les permite alcanzar mayores tamaños y colonizar hábitats más secos. Las plantas vasculares se dividen a su vez en los siguientes grupos:
 
 * **A. Plantas sin Semilla (Pteridofitas):** Tienen tejidos vasculares, pero se reproducen mediante esporas (como las plantas no vasculares). Incluyen los Helechos, Equisetos y Licopodios.
 * **B. Plantas con Semilla (Espermatofitas):** El grupo dominante, caracterizado por el uso de la semilla para proteger el embrión.
