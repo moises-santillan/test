@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conócenos
-permalink: /Conocenos/
+permalink: /conocenos/
 nav-include: true
 nav-order: 1
 ---
