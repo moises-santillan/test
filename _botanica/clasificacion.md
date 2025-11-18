@@ -1,6 +1,6 @@
 ---
 layout: botanica
-title: Clasifiación de las Plantas
+title: Clasificación de las Plantas
 concept_id: 1
 permalink: /Botanica/Clasificacion/
 ---
